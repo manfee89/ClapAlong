@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ClapAlong</string>
+
+    <string-array name="song_lists">
+        <item>Old Macdonald</item>
+        <item>Twinkle Twinkle Little Star</item>
+        <item>Lavender's Blue</item>
+        <item>Mary Had A Little Lamb</item>
+        <item>ABC</item>
+        <item>Hickory Dickory Dock</item>
+        <item>Baa-Baa Black Sheep</item>
+        <item>London Bridge Is Falling Down</item>
+
+    </string-array>
+
+    <array name="song_pictures">
+        <item>@drawable/cutie</item>
+        <item>@drawable/cutie</item>
+        <item>@drawable/cutie</item>
+        <item>@drawable/cutie</item>
+    </array>
+</resources>
